@@ -2,15 +2,19 @@
   "name": "telegramagenda",
   "version": "1.0.0",
   "description": "",
-  "main": "script/calendario.js",
+  "main": "src/calendario.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Matheus Bruno",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
     "telegraf": "^4.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattheusbr/TelegramAgendaConsulta"
   }
 }
